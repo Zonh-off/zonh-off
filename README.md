@@ -1,8 +1,6 @@
 # 👻 Hi there
 
-Quickly learner.
-
-I enjoy making games, 3D modeling and content creation in my free time.
+I'm quick learner.<br>I enjoy game dev, 3D modeling and content creation in my free time.
 
 ## 📊 Profile stats
 <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=zonh&layout=compact&theme=material-palenight">
