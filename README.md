@@ -1,35 +1,66 @@
-# 👻 Hi there
+<a href="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606">
+  <img src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606" alt="Fallout GIF" style="width:auto; height:auto"/>
+</a>
 
-I'm quick learner.<br>I enjoy game dev, 3D modeling and content creation in my free time.
+<h1 align="center">Hi 👾 I'm Zonh</h1>
+<h4 align="left">🌟Indie Game Developer with a love for clean code, smart systems, and immersive experiences.
+When I'm not building games, I sharpen my backend and full stack skills, explore AI/ML, and chase perfection in every project I touch.</h4>
 
-## 📊 Profile stats
-<img src = "https://github-readme-stats.vercel.app/api/wakatime?username=zonh&layout=compact&theme=material-palenight">
+<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
+<h3>💫 About Me</h3>
+  <div align="left">
+    <h4>
+      🎮 Game Developer — I build games with logic, mood, and a purpose.</br>
+      🔧 Working with Unity, C#, and custom systems for crafting, progression, and simulation.</br>
+      🌐 Experience in Full Stack Development using .NET, ASP.NET, SQL, and modern front-end stacks.</br>
+      🧠 Deep interest in AI, Machine Learning, Automation, and Blockchain tech.</br>
+      🎨 I do front-end & web design when I want to chill, but code is my main language.</br>
+      📚 Always learning. Always iterating. Always building better.</br>
+      ✨ I don’t settle for “good enough”. I build until it feels right.</br>
+  </h4>
+</div>
 
-## 🐙 Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E) 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+<div align="left"> 
+  <h5> 
+    <a href="https://www.linkedin.com/in/maksym-dudka-a76424334" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="hhttps://www.youtube.com/@zonh_off" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-ff3040?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
+    <a href="https://www.instagram.com/zonh_exe" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fc1375?style=for-the-badge&instagram&logoColor=white&labelColor=ECEFF4" alt="Instagram Badge"></a>
+    <a href="https://www.x.com/zonh_exe" target="_blank">
+    <img src="https://img.shields.io/badge/X(Twitter)-505050?style=for-the-badge&x&logoColor=white&labelColor=ECEFF4" alt="X Badge"></a>
+  </h5>
+</div>
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zonh_off) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zonh_off) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCbD2EsMhR7ugqR8GSHtxClg) 
+<h3 align="center">⚡ Github Status</h3>
+<div align="center">
+  <img height="160" src = "https://github-readme-stats.vercel.app/api/wakatime?username=zonh&layout=compact&langs_count=6&theme=material-palenight">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zonh&count_private=true&show_icons=true&theme=material-palenight&rank_icon=github&border_radius=10"/>
+</div>
+
+<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,c,cpp,dotnet,github,java,lua,py" /><br>
+  <img src="https://skillicons.dev/icons?i=blender,rider,idea,webstorm,ps,mysql,figma,maven,robloxstudio" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,tailwind,spring,linux" /><br>
+</div>
+
+<h3 align="center">💻 Tech Stack:</h3>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/.net-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/aseprite-7D929E.svg?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
+  <img src="https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+<h3 align="center">Support Me 💰 </h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
+</p>
