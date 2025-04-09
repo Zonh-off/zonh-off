@@ -10,13 +10,12 @@ When I'm not building games, I sharpen my backend and full stack skills, explore
 <h3>💫 About Me</h3>
   <div align="left">
     <h4>
-      🎮 Game Developer — I build games with logic, mood, and a purpose.</br>
-      🔧 Working with Unity, C#, and custom systems for crafting, progression, and simulation.</br>
-      🌐 Experience in Full Stack Development using .NET, ASP.NET, SQL, and modern front-end stacks.</br>
-      🧠 Deep interest in AI, Machine Learning, Automation, and Blockchain tech.</br>
-      🎨 I do front-end & web design when I want to chill, but code is my main language.</br>
-      📚 Always learning. Always iterating. Always building better.</br>
-      ✨ I don’t settle for “good enough”. I build until it feels right.</br>
+🎮 Game Developer — I build games with logic, mood, and purpose.</br>
+🔧 Working with Unity, C#</br>
+🧩 Sometimes I chill by exploring games or designing something visual.</br>
+💡 I love creating content, designing something visual, 3D modeling and experimenting with new ideas.</br>
+📚 Always learning. Always iterating. Always building better.</br>
+✨ I don’t settle for “good enough”. I build until it feels right.</br>
   </h4>
 </div>
 
