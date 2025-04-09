@@ -11,8 +11,7 @@
     <h4>
 🎮 Game Developer — I build games with logic, mood, and purpose.</br>
 🔧 Working with Unity, C#</br>
-🧩 Sometimes I chill by exploring games or designing something visual.</br>
-💡 I love creating content, designing something visual, 3D modeling and experimenting with new ideas.</br>
+🧩 Sometimes I chill by playing games or creating content, designing something visual, 3D modeling and experimenting with new ideas.</br>
 📚 Always learning. Always iterating. Always building better.</br>
 ✨ I don’t settle for “good enough”. I build until it feels right.</br>
   </h4>
