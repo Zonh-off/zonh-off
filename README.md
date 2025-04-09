@@ -59,8 +59,3 @@ When I'm not building games, I sharpen my backend and full stack skills, explore
   <img src="https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
-
-<h3 align="center">Support Me 💰 </h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
-</p>
