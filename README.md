@@ -23,7 +23,7 @@ When I'm not building games, I sharpen my backend and full stack skills, explore
   <h5> 
     <a href="https://www.linkedin.com/in/maksym-dudka-a76424334" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="hhttps://www.youtube.com/@zonh_off" target="_blank">
+    <a href="https://www.youtube.com/@zonh_off" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-ff3040?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
     <a href="https://www.instagram.com/zonh_exe" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fc1375?style=for-the-badge&instagram&logoColor=white&labelColor=ECEFF4" alt="Instagram Badge"></a>
