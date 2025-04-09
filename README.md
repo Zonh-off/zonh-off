@@ -3,8 +3,7 @@
 </a>
 
 <h1 align="center">Hi 👾 I'm Zonh</h1>
-<h4 align="left">🌟Indie Game Developer with a love for clean code, smart systems, and immersive experiences.
-When I'm not building games, I sharpen my backend and full stack skills, explore AI/ML, and chase perfection in every project I touch.</h4>
+<h4 align="left">🌟 Indie Game Developer with a love for clean code, smart systems, and immersive experiences. Always experimenting with new ideas, I’m committed to learning, improving, and pushing my skills to the next level.
 
 <img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 <h3>💫 About Me</h3>
@@ -20,7 +19,7 @@ When I'm not building games, I sharpen my backend and full stack skills, explore
 </div>
 
 <div align="left"> 
-  <h5> 
+  <h4> 
     <a href="https://www.linkedin.com/in/maksym-dudka-a76424334" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.youtube.com/@zonh_off" target="_blank">
@@ -29,7 +28,7 @@ When I'm not building games, I sharpen my backend and full stack skills, explore
     <img src="https://img.shields.io/badge/Instagram-fc1375?style=for-the-badge&instagram&logoColor=white&labelColor=ECEFF4" alt="Instagram Badge"></a>
     <a href="https://www.x.com/zonh_exe" target="_blank">
     <img src="https://img.shields.io/badge/X(Twitter)-505050?style=for-the-badge&x&logoColor=white&labelColor=ECEFF4" alt="X Badge"></a>
-  </h5>
+  </h4>
 </div>
 <br/>
 
