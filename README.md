@@ -31,11 +31,12 @@ When I'm not building games, I sharpen my backend and full stack skills, explore
     <img src="https://img.shields.io/badge/X(Twitter)-505050?style=for-the-badge&x&logoColor=white&labelColor=ECEFF4" alt="X Badge"></a>
   </h5>
 </div>
+<br/>
 
 <h3 align="center">⚡ Github Status</h3>
 <div align="center">
-  <img height="160" src = "https://github-readme-stats.vercel.app/api/wakatime?username=zonh&layout=compact&langs_count=6&theme=material-palenight">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zonh&count_private=true&show_icons=true&theme=material-palenight&rank_icon=github&border_radius=10"/>
+  <img width="380" height="160" src = "https://github-readme-stats.vercel.app/api/wakatime?username=zonh&layout=compact&langs_count=6&theme=material-palenight">
+  <img  width="308" height="160" src="https://github-readme-stats.vercel.app/api?username=zonh&count_private=true&show_icons=true&theme=material-palenight&rank_icon=github&border_radius=10"/>
 </div>
 
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
