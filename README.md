@@ -33,10 +33,10 @@ When I'm not building games, I sharpen my backend and full stack skills, explore
 </div>
 <br/>
 
-<h3 align="center">⚡ Github Status</h3>
+<h3 align="center">⚡ Statistics</h3>
 <div align="center">
-  <img width="380" height="160" src = "https://github-readme-stats.vercel.app/api/wakatime?username=zonh&layout=compact&langs_count=6&theme=material-palenight">
-  <img  width="308" height="160" src="https://github-readme-stats.vercel.app/api?username=zonh&count_private=true&show_icons=true&theme=material-palenight&rank_icon=github&border_radius=10"/>
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=zonh&layout=compact&langs_count=6&theme=material-palenight">
+  <!-- <img  width="308" height="160" src="https://github-readme-stats.vercel.app/api?username=zonh&count_private=true&show_icons=true&theme=material-palenight&rank_icon=github&border_radius=10"/> -->
 </div>
 
 <h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
