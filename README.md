@@ -1,61 +1,135 @@
 <a href="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606">
-  <img src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606" alt="Fallout GIF" style="width:auto; height:auto"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606" alt="Fallout GIF" />
 </a>
 
-<h1 align="center">Hi 👾 I'm Zonh</h1>
-<h4 align="left">🌟 Indie Game Developer with a love for clean code, smart systems, and immersive experiences. Always experimenting with new ideas, I’m committed to learning, improving, and pushing my skills to the next level.
+<h1 align="left">👾 Hi there, I'm Zonh</h1>
 
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
-<h3>💫 About Me</h3>
-  <div align="left">
-    <h4>
-🎮 Game Developer — I build games with logic, mood, and purpose.</br>
-🔧 Working with Unity, C#</br>
-🧩 Sometimes I chill by playing games or creating content, designing something visual, 3D modeling and experimenting with new ideas.</br>
-📚 Always learning. Always iterating. Always building better.</br>
-✨ I don’t settle for “good enough”. I build until it feels right.</br>
-  </h4>
-</div>
+---
 
-<div align="left"> 
-  <h4> 
-    <a href="https://www.linkedin.com/in/maksym-dudka-a76424334" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://www.youtube.com/@zonh_off" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-ff3040?style=for-the-badge&logo=youtube&logoColor=ECEFF4" alt="YouTube Badge"></a>
-    <a href="https://www.instagram.com/zonh_exe" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fc1375?style=for-the-badge&instagram&logoColor=white&labelColor=ECEFF4" alt="Instagram Badge"></a>
-    <a href="https://www.x.com/zonh_exe" target="_blank">
-    <img src="https://img.shields.io/badge/X(Twitter)-505050?style=for-the-badge&x&logoColor=white&labelColor=ECEFF4" alt="X Badge"></a>
-  </h4>
-</div>
-<br/>
-<br/>
+# 📊 Profile stats
 
-<h3 align="center">⚡ Statistics</h3>
-<br/>
-<div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=zonh&layout=compact&langs_count=6&theme=material-palenight">
-  <!-- <img  width="308" height="160" src="https://github-readme-stats.vercel.app/api?username=zonh&count_private=true&show_icons=true&theme=material-palenight&rank_icon=github&border_radius=10"/> -->
-</div>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zonh&layout=compact&langs_count=6&theme=material-palenight">
+</p>
 
-<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,c,cpp,dotnet,github,java,lua,py" /><br>
-  <img src="https://skillicons.dev/icons?i=blender,rider,idea,webstorm,ps,mysql,figma,maven,robloxstudio" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,tailwind,spring,linux" /><br>
-</div>
 
-<h3 align="center">💻 Tech Stack:</h3>
-<br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/.net-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/aseprite-7D929E.svg?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
-  <img src="https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</div>
+# 🧠 Languages
+
+<p>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+
+# 🧰 Stack
+
+## Main
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Zustand-FF8C00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet"/>
+
+</p>
+
+
+# 🎮 Personal (experiments / gamedev)
+
+<p>
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+
+</p>
+
+
+# ⚙️ Others
+
+<p>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+---
+
+# 🔗 Catch me here
+
+<p>
+
+<a href="https://www.linkedin.com/in/maksym-dudka-a76424334">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@zonh_off">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/zonh_exe">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/zonh_exe">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
