@@ -1,6 +1,6 @@
-<a href="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606">
+<!-- <a href="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606">
   <img src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606" alt="Fallout GIF" />
-</a>
+</a> -->
 
 <h1 align="left">👾 Hi there, I'm Zonh</h1>
 
